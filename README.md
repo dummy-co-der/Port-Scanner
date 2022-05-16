@@ -11,9 +11,9 @@ Port Scanner is built on Python 3 and uses some extra libraries such as socket p
 *Example:* ./port_scanner.py 104.22.55.228
 
 ## Output
-<img src="https://drive.google.com/file/d/1Xc_lEoptu7dQ3fHhORRi1yGdh73zRHYK/view?usp=sharing">
+![portscan](https://user-images.githubusercontent.com/77694789/168617879-0bb6adf9-639f-4aea-ba3e-f4459d509e59.png)
 
-## Note 
+## Note
 In the code at line 27 i.e for the port in range(1, 65535): we can custom define our ports under which range we have to scan. This port scanner will generally take the time of 5 mins maximum to produce output in the format, that so and so ports are open or closed.
 
 ## Disclaimer
